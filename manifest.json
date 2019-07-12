@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "nVampeta",
+	"name": "nZoeiraBombeiro",
 	"version": "1.4",
-	"description": "Troque todas as imagens do site por fotos do Vampeta.",
+	"description": "Troque todas as imagens do navegador por fotos de bombeiros suados (the zoeira never end's).",
 	"icons": {
     	"48": "icon48.png",
         "128": "icon128.png"
